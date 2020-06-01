@@ -1,0 +1,18 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Example": {
+            "chop": "yes",
+            "detail": "48",
+            "flange": "2.2",
+            "gap": "2.3",
+            "inner_dia": "4.6",
+            "outer_dia": "10.6",
+            "ring_dia": "7",
+            "ring_offset": "2",
+            "ring_thick": "2.2",
+            "support_gap": "0.2",
+            "support_thick": "0.76"
+        }
+    }
+}
