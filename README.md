@@ -1,5 +1,7 @@
 # Customizable Curtain rods
-*custom cut drapery rod *
+*custom cut drapery rod*
+
+This app is experimenal and under development by [Iron Rods Custom Drapery Hardware](https://ironrods.com/).
 
 ### License
 Share and Share alike :)
