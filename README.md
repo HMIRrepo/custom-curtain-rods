@@ -1,33 +1,28 @@
-# Customizable curtain rail slider
-*3D printable parametric curtain rail slider / glider*
+# Customizable Curtain rods
+*custom cut drapery rod *
 
 ### License
-[Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/)
+Share and Share alike :)
 
-### Gallery
+## Description
 
-![Photo 1](thumbs/slider1.jpg)[🔎](images/slider1.jpg) ![Photo 2](thumbs/slider2.jpg)[🔎](images/slider2.jpg) ![OpenSCAD preview](thumbs/scad-preview.png)[🔎](images/scad-preview.png)
+If you need to replace some of your drapery rods, you might be interested in this app that lets you create custom curtain rods that fit your windows perfectly. You can print them at home using your 3D printer and save money and time.
 
+This app is designed for the custom metal or iron curtain rods that are widely used. You can adjust the dimensions of the model to match your existing rods, or create a new style for your curtains. The app also allows you to choose different options for printing, such as adding support or cutting off part of the side.
 
-## Description and Instructions
+The STL files that are included are examples of one type of rod that I used in my house. You might find them useful, or you can generate your own drapery rod models with different measurements. Just use a calliper to get the exact size of your rods and enter them in the app.
 
-This is a simple curtain rail slider for the typical curtain rails with a ‘U’ shape (aluminium or plastic). These things are prone to breaking when abused, and finding replacements of the right size may be a hassle. With this OpenSCAD model, you can generate easy-to-print replacements of any dimensions. Of course it will be much more economical to buy these in bulk if you need large quantities, but if you only need a few spares, printing them makes a lot of sense.
+I recommend printing the models using the easy Print option enabled, which adds support and chops off part of the side. This makes them easier to print without any problems. You don't need to worry about the roundness, as they will still work fine and no one will notice.
 
-The example STL files might be all you need, they match one particular type of rail used at our home (amidst probably 5 other types, why does every curtain here use a unique type of rail…)
+The orientation of the model is important for the strength and durability of the printed rods. Make sure you print them as they are shown in the STL files. You can use different materials for printing, but I suggest using nylon or PETG, as they have good strength and low friction. Avoid PLA and ABS, as they might break or crack over time, especially if they are exposed to sunlight.
 
-If you need another size of this same design, accurately measure it with a calliper (or use trial-and-error) and [use OpenSCAD's Customizer](https://www.dr-lex.be/3d-printing/customizer.html) to generate the model.
-
-The ‘easyPrint’ STL file was generated with a built-in support and part of the side cut off, and I recommend keeping those options enabled when generating your own models. This makes them ready-to-print without any hassles (I wouldn't trust auto-generated supports for parts this small). If you insist on having perfectly round gliders, you can print the whole model (disable the `chop` option) with added supports, but this is pretty pointless unless you fear visitors might inspect your curtains and complain about the less-than-perfect roundness of the gliders.
-
-It is important to print the model in the orientation as provided in the STL file. This ensures that strength is maximal where it is needed. With the right materials and print settings, 3D printed versions of these sliders might exceed the strength of injection-moulded parts.
-
-The best material to print this in, is probably nylon, but PETG also works very well due to its good strength and low friction. Avoid PLA and ABS as they risk becoming brittle over time, especially when exposed to sunlight.
+This app is a simple and convenient way to make custom curtain rods for your home. You can print as many as you need and enjoy your curtains without any hassle.
 
 
 ### Print settings
 
-I print these in PETG at 0.15 mm layers. Use 3 perimeters to maximise strength. The remaining gaps can be filled with 100% infill although the strength should be mostly in the perimeters.
+Use a iron powder at 1.3 mm layers to improve strength for the strongest rod.
 
 
 ## Tags
-`customizable`, `openscad`, `curtain`, `rail`, `slider`, `glider`, `hook`
+`customizable`, `custom`, `curtain`, `rod`, `drapery`, `custimized`
